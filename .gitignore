@@ -1,0 +1,14 @@
+# Ignore everything by default
+/*
+!/.gitignore
+!.git/
+!/anime-tracker/
+!/telegram-reaction/
+!/telegram-tts/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+node_modules/
+**/node_modules/
+.playwright/
+.playwright-cli/
